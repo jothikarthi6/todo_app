@@ -14,7 +14,6 @@ A clean, production-ready **To-Do List App** built with Flutter, featuring Fireb
 <img width="140" height="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-10 at 12 30 06" src="https://github.com/user-attachments/assets/9dbab17e-596a-4b18-a324-021d93b1fad5" />
 <img width="140" height="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-10 at 12 33 55" src="https://github.com/user-attachments/assets/0d340466-24bd-4b04-84a0-e65fbe9f470e" />
 
-> _Add your simulator/device screenshots here_
 
 ---
 
